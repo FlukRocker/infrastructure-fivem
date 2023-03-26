@@ -1,6 +1,6 @@
 FROM debian:buster-slim
 
-LABEL maintainer="me@グルーバー.com"
+LABEL maintainer="flukrocker@outlook.co.th"
 LABEL org.opencontainers.image.source = "https://github.com/gruberdev/infrastructure-fivem"
 
 ENV LANG=en_US.UTF-8
