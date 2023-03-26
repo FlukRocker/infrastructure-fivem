@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:bullseye-20230109-slim
 
 LABEL maintainer="flukrocker@outlook.co.th"
 LABEL org.opencontainers.image.source = "https://github.com/gruberdev/infrastructure-fivem"
